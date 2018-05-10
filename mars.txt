@@ -1,2 +1,2 @@
 This is a sentence in this document.
-This is a second sentence.
+This is a second sentence!
